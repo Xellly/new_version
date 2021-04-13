@@ -1,3 +1,5 @@
+# This fork disallows closing the dialog, deleting the dismiss button, and stopping android back button or tapping outside.
+
 # New Version Plugin 🎉
 
 A Flutter plugin that makes it possible to: 
