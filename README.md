@@ -1,4 +1,5 @@
-# This fork disallows closing the dialog, deleting the dismiss button, and stopping android back button or tapping outside.
+# !! This is no longer required and is deprecated as its purpose is supported by the master branch now.
+#This fork disallows closing the dialog, deleting the dismiss button, and stopping android back button or tapping outside.
 
 # New Version Plugin 🎉
 
